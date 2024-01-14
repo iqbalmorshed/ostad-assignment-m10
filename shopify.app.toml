@@ -2,7 +2,7 @@
 
 name = "ostad-assignment-m10"
 client_id = "fbf96d060f9abc5e6217c866e9be0ebb"
-application_url = "https://style-wt-clinton-cow.trycloudflare.com"
+application_url = "https://nursery-correspondence-heater-accessibility.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://style-wt-clinton-cow.trycloudflare.com/auth/callback",
-  "https://style-wt-clinton-cow.trycloudflare.com/auth/shopify/callback",
-  "https://style-wt-clinton-cow.trycloudflare.com/api/auth/callback"
+  "https://nursery-correspondence-heater-accessibility.trycloudflare.com/auth/callback",
+  "https://nursery-correspondence-heater-accessibility.trycloudflare.com/auth/shopify/callback",
+  "https://nursery-correspondence-heater-accessibility.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
@@ -24,4 +24,4 @@ embedded = false
 
 [build]
 automatically_update_urls_on_dev = true
-dev_store_url = "ostadstore99.myshopify.com"
+dev_store_url = "iqbalstore99.myshopify.com"
